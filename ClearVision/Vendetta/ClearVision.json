@@ -1,10 +1,10 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "ClearVision v1.2.6.3",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm. Modified by Yuriko",
 	"authors": [
       {
-         "name": "Taki_Shiwa",
-         "id": "466968658997149706"
+         "name": "Yuriko",
+         "id": "226996798726602752"
       }
     ],
     "semanticColors": {
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
+        "url": "https://w.wallhaven.cc/full/z8/wallhaven-z8gopy.jpg"
     },
     "plus": {
         "version": 0,
